@@ -1,0 +1,2 @@
+cd /home/adamzhang22/CodeDeploy/divvy
+forever --id "adamzhang22_3888" start app.js 3888 172.31.39.49 8070 b-2.mpcs53014-kafka.198nfg.c7.kafka.us-east-2.amazonaws.com:9092,b-1.mpcs53014-kafka.198nfg.c7.kafka.us-east-2.amazonaws.com:9092

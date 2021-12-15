@@ -1,0 +1,1 @@
+https://data.cityofchicago.org/resource/eq45-8inv.json?$select=station_name,date_extract_m(timestamp) as record_month, date_extract_hh(timestamp) as record_hour, date_extract_dow(timestamp) as record_dayofweek, docks_in_service, available_docks, available_bikes, percent_full&$order=timestamp%20desc&$limit=100
